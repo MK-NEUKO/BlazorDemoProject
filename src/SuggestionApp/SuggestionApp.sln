@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionAppUi", "SuggestionAppUi\SuggestionAppUi.csproj", "{E974CB57-1970-4515-9E6A-71D67CB677BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppUi", "SuggestionAppUi\SuggestionAppUi.csproj", "{E974CB57-1970-4515-9E6A-71D67CB677BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionAppLibrary", "SuggestionAppLibrary\SuggestionAppLibrary.csproj", "{7128CAFC-8915-4260-AA7C-B5F4151668F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppLibrary", "SuggestionAppLibrary\SuggestionAppLibrary.csproj", "{7128CAFC-8915-4260-AA7C-B5F4151668F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
